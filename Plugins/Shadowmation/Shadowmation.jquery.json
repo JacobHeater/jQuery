@@ -1,0 +1,33 @@
+{
+    "name": "Shadowmation",
+    "title": "Shadowmation",
+    "description": "A jQuery plugin for animating CSS3 box-shadow property.",
+    "keywords": [
+        "box-shadow",
+        "animation",
+        "CSS3",
+        "jQuery"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Jacob Heater",
+        "url": "https://github.com/JacobHeater/jQuery/Plugins/ShadowMation"
+    },
+    "maintainers": [
+        {
+            "name": "Jacob Heater"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "homepage": "https://github.com/JacobHeater/jQuery/Plugins/ShadowMation",
+    "docs": "https://github.com/JacobHeater/jQuery/Plugins/ShadowMation/blob/master/README.md",
+    "download": "https://github.com/JacobHeater/jQuery/Plugins/ShadowMation",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
