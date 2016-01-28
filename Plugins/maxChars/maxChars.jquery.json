@@ -1,0 +1,38 @@
+{
+    "name": "maxChars",
+    "title": "maxChars",
+    "description": "A jQuery plugin for restricting text input to a finite length of characters.",
+    "keywords": [
+        "max length",
+		"maxLen",
+		"truncate",
+		"limit characters",
+		"text input",
+		"text box",
+		"textbox",
+		"textarea",
+		"text area"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Jacob Heater",
+        "url": "https://github.com/JacobHeater/jQuery/tree/master/Plugins/maxChars"
+    },
+    "maintainers": [
+        {
+            "name": "Jacob Heater"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "homepage": "https://github.com/JacobHeater/jQuery/tree/master/Plugins/maxChars",
+    "docs": "https://github.com/JacobHeater/jQuery/tree/master/Plugins/maxChars/blob/master/README.md",
+    "download": "https://github.com/JacobHeater/jQuery/raw/master/Plugins/maxChars/jquery-maxChars.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
